@@ -1,1 +1,2 @@
-# Puzzle-Game-Task
+# PuzzleGame
+Basic Puzzle Game. My first try.
