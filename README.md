@@ -1,2 +1,2 @@
 # PuzzleGame
-Basic Puzzle Game. My first try.
+Basic Puzzle Game For Children
